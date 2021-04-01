@@ -2,7 +2,7 @@
 *Plugin for [Beat Saber](http://beatsaber.com/)*
 
 * Plugin made by TMXRLAB
-* You can always find the latest Download in the [releases](https://github.com/tmxrlab/Audience-BeatSaber-Plugin/releases)*
+* You can always find the latest Download in the [releases](https://github.com/tmxrlab/Audience-BeatSaber-Plugin/releases)
 
 
 ## Features
